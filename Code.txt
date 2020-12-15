@@ -1,5 +1,6 @@
 <div>
 
 <p>This is a Paragraph</p>
+<p>This is a Sync Test</p>
 
 </div>
